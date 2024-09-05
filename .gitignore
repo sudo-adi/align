@@ -1,0 +1,26 @@
+# for client side
+
+# dependencies
+/client/node_modules
+
+#enviourment varoiables
+/client/.env
+
+# lock files
+/client/package-lock.json
+
+# build files
+/client/.next
+
+
+
+# for server side
+
+# dependencies
+/server/node_modules
+
+#enviourment varoiables
+/server/.env
+
+# lock files
+/server/yarn.lock

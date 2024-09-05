@@ -1,0 +1,11 @@
+{
+  "name": "align-server",
+  "version": "1.0.0",
+  "main": "server.ts",
+  "author": "lorem ipsum",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
